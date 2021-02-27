@@ -1,2 +1,2 @@
-# node-js-contacts
+# NodeJS
 For NodeJS homework
